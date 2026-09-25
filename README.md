@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ha Uyen 👋
 
-<!--
-**HoangHaUyen/hoanghauyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Finance & Banking student at Foreign Trade University, Hanoi,
+interested in financial analysis, corporate intelligence and data-driven finance.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Finance & Banking — Foreign Trade University
+- 📊 GPA: 3.9/4.0
+- 📚 CFA Level I Passed
+- 💼 Previous Corporate Banking Intern at BIDV
+- 🌍 IELTS 8.0 | German C1
+- 💻 Python | Pandas | SQL | Power BI | Excel
+- 📈 Interested in financial markets, corporate data and financial technology
+
+## Featured Projects
+
+### 🔎 Vietnam Public Company Intelligence
+Python + SQL pipeline for transforming public-company disclosures into
+structured financial and corporate relationship data.
+
+### 📊 Equity Research & Valuation
+Company analysis, financial modelling and DCF valuation.
+
+### 🤖 Financial Data Analytics
+Python-based financial-data analysis and machine-learning research.
+
+## Connect
+
+LinkedIn: linkedin.com/in/h-uyen-459b62305/
+Email: uyenhoang150706@gmail.com
